@@ -197,4 +197,4 @@ cython_debug/
 # data folder
 data/
 models/
-
+outputs/
